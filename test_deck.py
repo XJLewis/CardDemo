@@ -1,5 +1,6 @@
 import unittest
 from deck_hand import Deck
+from playing_card import PlayingCard
 
 class TestDeck(unittest.TestCase):
 

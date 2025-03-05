@@ -1,5 +1,4 @@
 import unittest
-
 from playing_card import PlayingCard
 
 class TestPlayingCard(unittest.TestCase):
